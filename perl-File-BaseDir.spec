@@ -13,7 +13,7 @@ Release:	1
 Vendor:		Jaap Karssenberg <pardus@cpan.org>
 License:	Artistic
 Group:		Development/Languages/Perl
-Source0:	http://www.cpan.org/modules/by-module/File/File-BaseDir-%{version}.tar.gz
+Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	00e2729f364d430350355250cb9007e0
 URL:		http://search.cpan.org/dist/File-BaseDir/
 BuildRequires:	perl-devel >= 1:5.8.0
