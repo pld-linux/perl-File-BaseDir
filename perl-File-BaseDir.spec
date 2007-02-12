@@ -6,7 +6,7 @@
 %define	pdir	File
 %define	pnam	BaseDir
 Summary:	File::BaseDir - use the freedesktop basedir spec
-Summary(pl):	File::BaseDir - uøywanie specyfikacji basedir z freedesktop
+Summary(pl.UTF-8):   File::BaseDir - u≈ºywanie specyfikacji basedir z freedesktop
 Name:		perl-File-BaseDir
 Version:	0.02
 Release:	1
@@ -30,14 +30,14 @@ This module forked from File::MimeInfo.
 
 For this module the XDG basedir specification 0.6 was used.
 
-%description -l pl
-Ten modu≥ moøe byÊ uøywany do znajdowania katalogÛw i plikÛw zgodnie
-ze specyfikacj± XDG Base Directory Specification. Dba o ustawienia
-domy∂lne i uøywa File::Spec aby wyj∂cie by≥o zaleøne od platformy.
+%description -l pl.UTF-8
+Ten modu≈Ç mo≈ºe byƒá u≈ºywany do znajdowania katalog√≥w i plik√≥w zgodnie
+ze specyfikacjƒÖ XDG Base Directory Specification. Dba o ustawienia
+domy≈õlne i u≈ºywa File::Spec aby wyj≈õcie by≈Ço zale≈ºne od platformy.
 
-Ten modu≥ jest odga≥Ízieniem File::MimeInfo.
+Ten modu≈Ç jest odga≈Çƒôzieniem File::MimeInfo.
 
-Dla tego modu≥u uøyto specyfikacji XDG basedir w wersji 0.6.
+Dla tego modu≈Çu u≈ºyto specyfikacji XDG basedir w wersji 0.6.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
