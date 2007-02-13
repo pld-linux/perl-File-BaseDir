@@ -6,7 +6,7 @@
 %define	pdir	File
 %define	pnam	BaseDir
 Summary:	File::BaseDir - use the freedesktop basedir spec
-Summary(pl.UTF-8):   File::BaseDir - używanie specyfikacji basedir z freedesktop
+Summary(pl.UTF-8):	File::BaseDir - używanie specyfikacji basedir z freedesktop
 Name:		perl-File-BaseDir
 Version:	0.02
 Release:	1
