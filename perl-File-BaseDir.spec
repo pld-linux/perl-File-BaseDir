@@ -8,7 +8,7 @@ Summary:	File::BaseDir - use the freedesktop basedir spec
 Summary(pl.UTF-8):	File::BaseDir - używanie specyfikacji basedir z freedesktop
 Name:		perl-File-BaseDir
 Version:	0.03
-Release:	1
+Release:	2
 Vendor:		Jaap Karssenberg <pardus@cpan.org>
 License:	Artistic
 Group:		Development/Languages/Perl
